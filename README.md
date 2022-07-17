@@ -13,7 +13,7 @@ Definindo o número de vidas
 int vida = 5;
 ```
 
-Loop pra chegar as opções
+Loop pra checar as opções
 ```javascript
 for(i = 0; i < vida; i++){
             System.out.println("Adivinhe o numero: ");
